@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3477b57b-500c-4123-8d2f-333aeff9a8ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Game_assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/NPzXsl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Hero Knight/License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Hero Knight/Sprites/Attack1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Hero Knight/Sprites/Attack2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Hero Knight/Sprites/Death.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Hero Knight/Sprites/Fall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Hero Knight/Sprites/Idle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Hero Knight/Sprites/Jump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Hero Knight/Sprites/Run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Hero Knight/Sprites/Take Hit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Attack1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Attack2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Attack3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Attack4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Death.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Fall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Idle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Jump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Take Hit - white silhouette.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Take Hit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/oak_woods_v1.0/background/background_layer_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/oak_woods_v1.0/background/background_layer_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/oak_woods_v1.0/background/background_layer_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/oak_woods_v1.0/character/char_blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/fence_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/fence_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/grass_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/grass_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/grass_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/lamp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/rock_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/rock_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/rock_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/shop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/shop_anim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/sign.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/oak_woods_v1.0/oak_woods_tileset.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/oak_woods_v1.0/readme.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="29y9bmV6N7RORtDMQ8Ik37kYiig" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/characters" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3477b57b-500c-4123-8d2f-333aeff9a8ec" name="Changes" comment="" />
+      <created>1654074538256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1654074538256</updated>
+      <workItem from="1654074543222" duration="1966000" />
+      <workItem from="1654113803487" duration="1262000" />
+      <workItem from="1654201412441" duration="11178000" />
+      <workItem from="1654246270071" duration="605000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
