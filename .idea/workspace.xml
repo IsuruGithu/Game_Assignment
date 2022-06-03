@@ -2,51 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3477b57b-500c-4123-8d2f-333aeff9a8ec" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/Hero/Attack1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Hero/Attack2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Hero/Death.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Hero/Fall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Hero/Jump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Hero/License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Hero/Run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Hero/Take Hit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Medieval Warrior/License.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Attack1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Attack2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Attack3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Attack4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Death.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Fall.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Idle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Jump.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Run.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Take Hit - white silhouette.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Take Hit.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/NPzXsl.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/background 1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/background.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Hero Knight/License.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Hero Knight/Sprites/Attack1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Hero Knight/Sprites/Attack2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Hero Knight/Sprites/Death.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Hero Knight/Sprites/Fall.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Hero Knight/Sprites/Idle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Hero Knight/Sprites/Jump.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Hero Knight/Sprites/Run.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Hero Knight/Sprites/Take Hit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/License.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Attack1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Attack2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Attack3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Attack4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Death.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Fall.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Idle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Jump.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Run.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Take Hit - white silhouette.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/characters/Medieval Warrior Pack 2/Sprites/Take Hit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/oak_woods_v1.0/background/background_layer_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/oak_woods_v1.0/background/background_layer_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/oak_woods_v1.0/background/background_layer_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/oak_woods_v1.0/character/char_blue.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/fence_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/fence_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/grass_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/grass_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/grass_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/lamp.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/rock_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/rock_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/rock_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/shop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/shop_anim.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/oak_woods_v1.0/decorations/sign.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/oak_woods_v1.0/oak_woods_tileset.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/oak_woods_v1.0/readme.TXT" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/classes.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,13 +51,17 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/Hero" />
     <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/Hero" />
       <recent name="$PROJECT_DIR$/assets" />
       <recent name="$PROJECT_DIR$/assets/characters" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/Hero Knight" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -95,7 +77,8 @@
       <workItem from="1654201412441" duration="11178000" />
       <workItem from="1654246270071" duration="2790000" />
       <workItem from="1654250412018" duration="302000" />
-      <workItem from="1654275276018" duration="3340000" />
+      <workItem from="1654275276018" duration="7643000" />
+      <workItem from="1654283332149" duration="2208000" />
     </task>
     <servers />
   </component>

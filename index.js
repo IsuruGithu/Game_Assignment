@@ -38,6 +38,27 @@ const player = new Fighter({
     offset: {
         x: 0,
         y: 0
+    },
+    imageSrc: './assets/Hero/Idle.png',
+    frameMax: 11,
+    scale: 2.5,
+    offset: {
+        x: 190,
+        y: 135
+    },
+    sprites: {
+        idle:{
+            imageSrc: './assets/Hero/Idle1.png',
+            frameMax: 11
+        },
+        run:{
+            imageSrc: './assets/Hero/Run.png',
+            frameMax: 8
+        },
+        jump:{
+            imageSrc: './assets/Hero/Jump.png',
+            frameMax: 3
+        }
     }
 })
 
@@ -85,16 +106,23 @@ function animate() {
     background.update()
     shop.update()
     player.update()
-    enemy.update()
+    //enemy.update()
 
     player.velocity.x = 0
     enemy.velocity.x = 0
 
     //player
+    player.switchSprite('idle')
     if (keys.a.pressed && player.lastkey === 'd') {
         player.velocity.x = -5
+        player.switchSprite('run')
     } else if (keys.d.pressed && player.lastkey === 'a') {
         player.velocity.x = 5
+        player.switchSprite('run')
+    }
+
+    if (player.velocity.y < 0){
+        player.switchSprite('jump')
     }
 
     //enemy
