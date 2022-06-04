@@ -2,30 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3477b57b-500c-4123-8d2f-333aeff9a8ec" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/Warrior/Attack1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Warrior/Attack2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Warrior/Attack3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Warrior/Attack4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Warrior/Death.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Warrior/Fall.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Warrior/Idle.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Warrior/Jump.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Warrior/Run.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Warrior/Take Hit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/Warrior/debug.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Medieval Warrior/License.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Attack1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Attack2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Attack3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Attack4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Death.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Fall.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Idle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Jump.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Run.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Take Hit - white silhouette.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/Medieval Warrior/Sprites/Take Hit.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/js/classes.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/classes.js" afterDir="false" />
     </list>
@@ -83,7 +61,7 @@
       <workItem from="1654250412018" duration="302000" />
       <workItem from="1654275276018" duration="7643000" />
       <workItem from="1654283332149" duration="4398000" />
-      <workItem from="1654294128376" duration="5410000" />
+      <workItem from="1654294128376" duration="10049000" />
     </task>
     <servers />
   </component>
