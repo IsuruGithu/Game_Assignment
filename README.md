@@ -2,6 +2,16 @@
 
 - Used Programming Skills : HTML, CSS, JavaScript
 
+- Plyer 01 - jump ( W )
+             Right ( D )
+             Left ( A )
+             Attack ( S )
+             
+- Plyer 02 - jump ( Arrow up )
+             Right ( Arrow right )
+             Left ( Arrow left )
+             Attack ( Arrow down )
+
 
 <h2>Overview Fighting Game️ </h2>
 
